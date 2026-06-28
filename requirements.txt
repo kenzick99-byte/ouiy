@@ -1,2 +1,4 @@
-python-telegram-bot
-yt-d1p
+aiogram==3.13.0
+yt-dlp
+python-dotenv
+aiofiles
